@@ -2,11 +2,17 @@
 title: "K8s 뉴비의 쿠버네티스 정복기 [1]"
 excerpt: ""
 
+permalink: /categories/kubernetes/
+
 categories:
   - kubernetes
+  - develop
 tags:
   - k8s
+  - develop
 last_modified_at: 2021-04-22T00:01:00-05:00
+
+comments: true
 ---
 
 본업(?)은 데이터 분석가로 들어왔으나, 요런 DevOps 프레임워크까지 욕심이 난다.
