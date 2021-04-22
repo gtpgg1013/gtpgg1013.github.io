@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name: "Taehyung Kang"
-  avatar: "/assets/images/blue_doggy.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar: "/assets/images/blue_doggy.PNG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "소복소복 기록공간"
   location: "Korea"
   email:
