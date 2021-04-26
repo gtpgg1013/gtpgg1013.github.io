@@ -1,6 +1,6 @@
 ---
-title: "K8s 뉴비의 쿠버네티스 정복기 [1]"
-excerpt: ""
+title: "K8s 뉴비의 쿠버네티스 정복기 (1)"
+excerpt: "쿠버네티스란?"
 
 # permalink: /categories/kubernetes/1/
 

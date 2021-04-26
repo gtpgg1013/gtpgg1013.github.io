@@ -1,6 +1,6 @@
 ---
-title: "K8s 뉴비의 쿠버네티스 정복기 [3]"
-excerpt: ""
+title: "K8s 뉴비의 쿠버네티스 정복기 (3)"
+excerpt: "1. K8s 개념 이해 (Ctnd.) & 2. 아키텍처"
 
 # permalink: /categories/kubernetes/3/
 
@@ -62,6 +62,5 @@ comments: true
   - Kube-proxy : 노드에 들어오는 네트워크 트래픽을 적절한 컨테이너로 라우팅, 로드밸런싱 등 노드로 들어오고 나가는 네트워크 트래픽을 프록시함. 노드 - 마스터 간 네트워크 통신 관리
   - Container Runtime : Pod를 통해 배포된 컨테이너를 실행하는 컨테이너 런타임 / 보통 도커를 생각하나 이외에 rkt (보안 강화), Hyper container 등 다양한 런타임이 있다고 함
   - cAdvisor : 각 노드에서 기동되는 모니터링 에이전트 : 노드 내에서 가동되는 컨테이너 상태 / 성능정보 수집 => 마스터 서버의 API로 전달 (kubelet를 안거치고?) / 보통 모니터링용으로 사용
-  -
 
 출처 - 조대협님 블로그 (https://bcho.tistory.com/1255)
