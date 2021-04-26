@@ -1,6 +1,6 @@
 ---
 title: "K8s 뉴비의 쿠버네티스 정복기 (3)"
-excerpt: "1. K8s 개념 이해 (Ctnd.) & 2. 아키텍처"
+excerpt: "1.K8s 개념 이해 (Ctnd.) & 2.아키텍처"
 
 # permalink: /categories/kubernetes/3/
 

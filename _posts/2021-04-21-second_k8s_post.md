@@ -1,6 +1,6 @@
 ---
 title: "K8s 뉴비의 쿠버네티스 정복기 (2)"
-excerpt: "1. K8s 개념 이해"
+excerpt: "1.K8s 개념 이해"
 
 # permalink: /categories/kubernetes/2/
 
