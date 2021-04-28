@@ -21,7 +21,8 @@ comments: true
 키보드는 두 제품중에서 고민중....  
 스피커 : http://prod.danawa.com/info/?pcode=9934761&cate=1131892 (스탠딩)  
 http://prod.danawa.com/info/?pcode=5933715&cate=1131892 (바)  
- 스피커도 두 제품중에서 고민중...
+ 스피커도 두 제품중에서 고민중...  
+노트북 거치대 : http://www.11st.co.kr/products/2862250391?service_id=pcdn&utm_medium=%EA%B0%80%EA%B2%A9%EB%B9%84%EA%B5%90&utm_source=%EB%8B%A4%EB%82%98%EC%99%80_PC_PCS&utm_campaign=%EB%8B%A4%EB%82%98%EC%99%80pc_%EA%B0%80%EA%B2%A9%EB%B9%84%EA%B5%90%EA%B8%B0%EB%B3%B8&utm_term=
 
 ## 생활
 
