@@ -1,5 +1,5 @@
 ---
-title: "이번 이사 준비하며 구매 예정인 것들"
+title: "이사 준비하며 구매 예정 물품 정리"
 excerpt: ""
 
 categories:
