@@ -22,7 +22,8 @@ comments: true
 스피커 : http://prod.danawa.com/info/?pcode=9934761&cate=1131892 (스탠딩)  
 http://prod.danawa.com/info/?pcode=5933715&cate=1131892 (바)  
  스피커도 두 제품중에서 고민중...  
-노트북 거치대 : http://www.11st.co.kr/products/2862250391?service_id=pcdn&utm_medium=%EA%B0%80%EA%B2%A9%EB%B9%84%EA%B5%90&utm_source=%EB%8B%A4%EB%82%98%EC%99%80_PC_PCS&utm_campaign=%EB%8B%A4%EB%82%98%EC%99%80pc_%EA%B0%80%EA%B2%A9%EB%B9%84%EA%B5%90%EA%B8%B0%EB%B3%B8&utm_term=
+노트북 거치대 : http://www.11st.co.kr/products/2862250391?service_id=pcdn&utm_medium=%EA%B0%80%EA%B2%A9%EB%B9%84%EA%B5%90&utm_source=%EB%8B%A4%EB%82%98%EC%99%80_PC_PCS&utm_campaign=%EB%8B%A4%EB%82%98%EC%99%80pc_%EA%B0%80%EA%B2%A9%EB%B9%84%EA%B5%90%EA%B8%B0%EB%B3%B8&utm_term=  
+https://www.coupang.com/vp/products/4798389665?itemId=6156862386&vendorItemId=72115300713&src=1032034&spec=10305201&addtag=400&ctag=4798389665&lptag=P4798389665&itime=20210429013928&pageType=PRODUCT&pageValue=4798389665&wPcid=16024991752201324326931&wRef=prod.danawa.com&wTime=20210429013928&redirect=landing&isAddedCart=
 
 ## 생활
 
